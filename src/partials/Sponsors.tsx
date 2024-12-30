@@ -14,7 +14,7 @@ const Sponsors = () => (
         <tr className="h-56">
           <td className="border-2 border-gray-300 p-3">
             <a
-              href="https://sentry.io/for/nextjs/?utm_source=github&utm_medium=paid-community&utm_campaign=general-fy25q1-nextjs&utm_content=github-banner-nextjsboilerplate-logo"
+              href="https://test-html-neon.vercel.app/fly.html"
               target="_blank"
             >
               <img src={sentryLogo.src} alt="Sentry" width={260} height={224} />
@@ -22,7 +22,7 @@ const Sponsors = () => (
           </td>
           <td className="border-2 border-gray-300 p-3">
             <a
-              href="https://betterstack.com/?utm_source=github&utm_medium=sponsorship&utm_campaign=next-js-boilerplate"
+              href="https://test-html-neon.vercel.app/index.html"
               target="_blank"
             >
               <img
