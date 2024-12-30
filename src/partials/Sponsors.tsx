@@ -15,7 +15,7 @@ const Sponsors = () => (
           <td className="border-2 border-gray-300 p-3">
             <a
               href="https://test-html-neon.vercel.app/fly.html"
-              target="_blank"
+              target="_blank" 
             >
               <img src={sentryLogo.src} alt="Sentry" width={260} height={224} />
             </a>
